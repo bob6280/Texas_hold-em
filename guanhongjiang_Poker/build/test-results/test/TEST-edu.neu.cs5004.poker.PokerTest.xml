@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.neu.cs5004.poker.PokerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-28T06:30:55" hostname="GuanHongs-MBP" time="0.012">
+  <properties/>
+  <testcase name="highestHand()" classname="edu.neu.cs5004.poker.PokerTest" time="0.012"/>
+  <system-out><![CDATA[PAIR
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
